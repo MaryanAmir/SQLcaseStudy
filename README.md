@@ -16,8 +16,8 @@ Completed a new SQL project using SQL Server Management Studio (SSMS).
 *  Calculating team spending
 *  Categorizing players
 
-![overview](img.png
+![overview](img.png)
 
 
-![overview][img2.png]
+![overview](img2.png)
 I alse uploaded the SQL scripts and Project files.
