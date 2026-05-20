@@ -21,6 +21,9 @@ This project contains SQL analysis queries performed on an IPL players dataset u
 - Win percentage analysis
 - Match statistics analysis
 
+![overview](Sc1.png)
+![overview](Sc2.png)
+
 ## Tools
 - SQL Server Management Studio (SSMS)
 - SQL Server
