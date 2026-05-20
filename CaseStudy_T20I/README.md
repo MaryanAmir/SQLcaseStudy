@@ -1,5 +1,5 @@
 
-# IPL Player Analytics using SQL Server
+# T20I Player Analytics using SQL Server
 
 This project contains SQL analysis queries performed on an IPL players dataset using SQL Server Management Studio (SSMS).
 
